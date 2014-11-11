@@ -5,8 +5,8 @@
 	<ext_resource path="res://clown.gd" type="Script"></ext_resource>
 	<ext_resource path="res://click.wav" type="Sample"></ext_resource>
 	<ext_resource path="res://music.ogg" type="AudioStream"></ext_resource>
-	<ext_resource path="res://tileset.res.xml" type="TileSet"></ext_resource>
 	<ext_resource path="res://bounce.wav" type="Sample"></ext_resource>
+	<ext_resource path="res://tileset.res.xml" type="TileSet"></ext_resource>
 	<resource type="RectangleShape2D" path="local://1">
 		<real name="custom_solver_bias"> 0 </real>
 		<vector2 name="extents"> 10, 10 </vector2>
@@ -286,7 +286,7 @@
 						<int> 0 </int>
 					</dictionary>
 					<string> "__editor_plugin_screen__" </string>
-					<string> "2D" </string>
+					<string> "Script" </string>
 				</dictionary>
 				<bool> True </bool>
 				<real> 1 </real>

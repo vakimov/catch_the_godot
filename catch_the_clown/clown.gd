@@ -1,8 +1,7 @@
 
 extends KinematicBody2D
 
-const speed = 200  # pixel/second
-
+var speed = 200  # pixel/second
 var direction = Vector2(0, 1)
 var score = 0
 
